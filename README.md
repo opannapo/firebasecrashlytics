@@ -19,5 +19,8 @@
   
 
         
-### Gradle  
-<p align="left"><img src="https://github.com/opannapo/FirebaseCrashReport/blob/master/images/Step7_2.png" width="500"/></p> 
+### Gradle Root Project
+<p align="left"><img src="https://github.com/opannapo/firebasecrashlytics/blob/master/images/gradle-root.png" width="500"/></p> 
+
+### Gradle App
+<p align="left"><img src="https://github.com/opannapo/firebasecrashlytics/blob/master/images/gradle-app.png" width="500"/></p> 
